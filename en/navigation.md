@@ -19,6 +19,11 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 [Home](index.md)
+[Ansible](pages/ansible.md)
+[CryptoCurrency Mining](pages.btcmining.md)
+[Docker](pages/docker.md)
+[Retro Computing](pages/retrocomputing.md)
+[3D Printing](pages/3dprinting.md)
 [Warframe](pages/warframe.md)
 [About](pages/about.md)
 <!-- [Download](pages/download.md) -->
