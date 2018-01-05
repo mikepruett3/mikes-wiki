@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](slate)
 
 
 <!--
@@ -20,7 +20,7 @@
   -->
 [Home](index.md)
 [About](pages/about.md)
-[Download](pages/download.md)
+<!-- [Download](pages/download.md) -->
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -61,5 +61,5 @@
   -->
 
 
-[gimmick:themechooser](Choose theme)
+<!-- [gimmick:themechooser](Choose theme) -->
 
