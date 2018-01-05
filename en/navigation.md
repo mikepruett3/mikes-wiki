@@ -20,7 +20,7 @@
   -->
 [Home](index.md)
 [Ansible](pages/ansible.md)
-[CryptoCurrency Mining](pages.btcmining.md)
+[CryptoCurrency Mining](pages/btcmining.md)
 [Docker](pages/docker.md)
 [Retro Computing](pages/retrocomputing.md)
 [3D Printing](pages/3dprinting.md)
