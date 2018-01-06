@@ -19,7 +19,6 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 [Information Technology]()
-
   * # Systems Automation
   * [Ansible](pages/ansible.md)
   - - - -
@@ -27,7 +26,6 @@
   * [Docker](pages/docker.md)
 
 [Technology]()
-
   * # CryptoCurrency
   * [CryptoCurrency Mining](pages/btcmining.md)
   - - - -
@@ -39,7 +37,6 @@
   * [MIDI Synths](pages/midi.md)
 
 [Gaming]()
-
   * # MMO's
   * [Warframe](pages/warframe.md)
 
