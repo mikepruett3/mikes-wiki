@@ -18,11 +18,9 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[Information Technology]()
-  # Systems Automation
+[Information Technology3]()
   * [Ansible](pages/ansible.md)
   - - - -
-  # Containers
   * [Docker](pages/docker.md)
 
 [Technology]()
