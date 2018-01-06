@@ -18,12 +18,11 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[Information Technology3]()
-  * [Ansible](pages/ansible.md)
-  - - - -
-  * [Docker](pages/docker.md)
+[Information Technology4]()
+  [Ansible](pages/ansible.md)
+  [Docker](pages/docker.md)
 
-[Technology]()
+<!-- [Technology]()
   # CryptoCurrency
   * [CryptoCurrency Mining](pages/btcmining.md)
   - - - -
@@ -36,7 +35,7 @@
 
 [Gaming]()
   # MMO's
-  * [Warframe](pages/warframe.md)
+  * [Warframe](pages/warframe.md) -->
 
 [About](pages/about.md)
 <!-- [Download](pages/download.md) -->
