@@ -36,11 +36,11 @@
 [Gaming]()
 
   * [Warframe](pages/warframe.md)
-  
+
 [About](pages/about.md)
 <!-- [Download](pages/download.md) -->
 
-A more complex navigation example: ----------------------------------------
+<!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
 
@@ -58,7 +58,7 @@ A more complex navigation example: ----------------------------------------
 
 [Menu Item 3](pages/item3.md)
 
-----------------------------------------------------------------------------
+---------------------------------------------------------------------------- -->
 
 <!--
   -- Change the Language
