@@ -18,27 +18,13 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[Information Technology7]()
-
-  # Submenu
-  * [Ansible](pages/ansible.md)
-  * [Docker](pages/docker.md)
-
-<!-- [Technology]()
-  # CryptoCurrency
-  * [CryptoCurrency Mining](pages/btcmining.md)
-  - - - -
-  # 3D Printing
-  * [3D Printing](pages/3dprinting.md)
-  - - - -
-  # Other
-  * [Retro Computing](pages/retrocomputing.md)
-  * [MIDI Synths](pages/midi.md)
-
-[Gaming]()
-  # MMO's
-  * [Warframe](pages/warframe.md) -->
-
+[Ansible](pages/ansible.md)
+[Docker](pages/docker.md)
+[CryptoCurrency Mining](pages/btcmining.md)
+[3D Printing](pages/3dprinting.md)
+[Retro Computing](pages/retrocomputing.md)
+[MIDI Synths](pages/midi.md)
+[Warframe](pages/warframe.md) -->
 [About](pages/about.md)
 <!-- [Download](pages/download.md) -->
 
