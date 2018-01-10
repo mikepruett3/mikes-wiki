@@ -44,6 +44,9 @@
   * # CryptoCurrency
   * [CryptoCurrency Mining](pages/btcmining.md)
   - - - -
+  * # System-On-a-Chip (SOC)
+  * [C.H.I.P](pages/chip.md)
+  - - - -
   * # Retro Computing
   * [Retro Computing](pages/retrocomputing.md)
   - - - -
@@ -52,6 +55,25 @@
   - - - -
   * # Musical Instruments
   * [MIDI Synths](pages/midi.md)
+
+[Software]()
+
+  * # Cygwin
+  * [Cygwin](pages/cygwin.md)
+  * [Jekyll on Cygwin](pages/cygwin-jekyll.md)
+  * [Ruby on Cygwin](pages/cygwin-ruby.md)
+  - - - -
+  * # Shell
+  * [ConEMU](pages/conemu.md)
+  * [TMux](pages/tmux.md)
+  - - - -
+  * # Self-Hosted Applications
+  * [Self-Hosted](pages/selfhosted.md)
+  - - - -
+  * # Other Software
+  * [OneNote Fix: Rebinding Keys](pages/onenote-rebind.md)
+  * [Old Software](pages/oldsoftware.md)
+
 
 [Games]()
 
