@@ -18,17 +18,17 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[Ansible](pages/ansible.md)
+<!-- [Ansible](pages/ansible.md)
 [Docker](pages/docker.md)
 [CryptoCurrency Mining](pages/btcmining.md)
 [3D Printing](pages/3dprinting.md)
 [Retro Computing](pages/retrocomputing.md)
 [MIDI Synths](pages/midi.md)
-[Warframe](pages/warframe.md) -->
-[About](pages/about.md)
+[Warframe](pages/warframe.md)
+[About](pages/about.md) -->
 <!-- [Download](pages/download.md) -->
 
-<!-- A more complex navigation example: ----------------------------------------
+<!-- A more complex navigation example: ---------------------------------------->
 
 [Menu Item 1]()
 
@@ -46,7 +46,7 @@
 
 [Menu Item 3](pages/item3.md)
 
----------------------------------------------------------------------------- -->
+<!---------------------------------------------------------------------------- -->
 
 <!--
   -- Change the Language
