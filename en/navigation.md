@@ -30,21 +30,34 @@
 
 <!-- A more complex navigation example: ---------------------------------------->
 
-[Menu Item 1]()
+[Technology]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+  * # Systems Automation
+  * [Ansible](pages/ansible.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # Containers
+  * [Docker](pages/docker.md)
+  * [Docker on Windows](pages/dockeronwin.md)
+
+[Hardware]()
+
+  * # CryptoCurrency
+  * [CryptoCurrency Mining](pages/btcmining.md)
   - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # Retro Computing
+  * [Retro Computing](pages/retrocomputing.md)
+  - - - -
+  * # 3D Printing
+  * [3D Printing](pages/3dprinting.md)
+  - - - -
+  * # Musical Instruments
+  * [MIDI Synths](pages/midi.md)
 
-[Menu Item 2](pages/item2.md)
+[Games]()
 
-[Menu Item 3](pages/item3.md)
+  * # MultiPlayer
+  * [Warframe](pages/warframe.md)
+  - - - -
 
 <!---------------------------------------------------------------------------- -->
 
