@@ -39,6 +39,11 @@
   * [Docker](pages/docker.md)
   * [Docker on Windows](pages/dockeronwin.md)
 
+[Development]()
+
+  * # PowerShell
+  * [PowerShell Scripting Best Practices](pages/ps-bestpractice.md)
+
 [Hardware]()
 
   * # CryptoCurrency
